@@ -37,8 +37,8 @@ function likes(names) {
 
 ## Education
 
-1. [HTML Academy] (https://htmlacademy.ru)
-2. [CS 50 lectures] (https://javarush.ru/quests/QUEST_HARVARD_CS50)
+1. [HTML Academy](https://htmlacademy.ru)
+2. [CS 50 lectures](https://javarush.ru/quests/QUEST_HARVARD_CS50)
 
 ## English
 
